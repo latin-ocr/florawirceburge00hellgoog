@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./florawirceburge00hellgoog/florawirceburge00hellgoog_0006.png"; bbox 0 0 2370 4276; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1 1380 837 1452">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1 1380 837 1452">
+     <span class='ocr_line' id='line_1_1' title="bbox 1 1380 837 1452; baseline -0.005 -10"><span class='ocrx_word' id='word_1_1' title='bbox 1 1407 32 1442; x_wconf 81' lang='lat' dir='ltr'><strong>ec</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 60 1390 144 1442; x_wconf 71' lang='lat' dir='ltr'><strong>ntudia</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 171 1380 372 1441; x_wconf 74' lang='lat' dir='ltr'>adolescentiam</span> <span class='ocrx_word' id='word_1_4' title='bbox 396 1387 484 1452; x_wconf 76' lang='lat' dir='ltr'><strong>alunt,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 513 1387 671 1440; x_wconf 53' lang='lat' dir='ltr'><strong>senectutem</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 697 1388 837 1441; x_wconf 68' lang='lat' dir='ltr'>oblectent.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 472 1532 776 1616">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 472 1532 776 1616">
+     <span class='ocr_line' id='line_1_2' title="bbox 472 1532 776 1616; baseline 0.02 -20"><span class='ocrx_word' id='word_1_7' title='bbox 472 1532 576 1597; x_wconf 70' lang='lat' dir='ltr'><em>Cicero</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 591 1558 652 1616; x_wconf 73' lang='lat' dir='ltr'><strong>pro</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 674 1544 715 1599; x_wconf 79' lang='lat' dir='ltr'><strong>A.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 736 1536 776 1602; x_wconf 87' lang='lat' dir='ltr'><strong>P.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1190 4276">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1190 4276">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1190 4276; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1190 4276; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
